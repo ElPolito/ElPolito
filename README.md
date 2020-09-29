@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**ElPolito/ElPolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paul Moine and I'm currently at Insa Lyon Engineering School in France.
 
-Here are some ideas to get you started:
+I discovered development with Unity Engine trying to make way too complex games for my level but that was fun even though i've not finished any of these projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a new video game made with Unity Engine but also on a web application for Game developers to allow them to distribute their games easily.
+
+---
+
+You can see my the games I've made here: https://smallprodgame.com
+
+You can see the web application I talked about earlier here: https://launcher.yukkyapp.com
+
+---
+
+Here is my Linkedin: https://www.linkedin.com/in/paul-moine-fr
+
+Here is my resume as a website: https://elpolito.github.io
+
+Email address: polo@smallprodgame.com
