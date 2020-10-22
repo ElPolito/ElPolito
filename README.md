@@ -8,7 +8,7 @@ I'm currently working on a new video game made with Unity Engine but also on a w
 
 ---
 
-You can see my the games I've made here: https://smallprodgame.com
+You can see the games I've made here: https://smallprodgame.com
 
 You can see the web application I talked about earlier here: https://launcher.yukkyapp.com
 
