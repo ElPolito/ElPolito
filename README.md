@@ -1,4 +1,4 @@
-Fullstack Software Engineer @Loop Crew 
+Fullstack Software Engineer @Loop-Crew 
 
 ---
 
